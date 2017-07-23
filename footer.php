@@ -1,5 +1,5 @@
 <div id="footer">
-<h1>FOOTER</h1>
+<ul><h1>FOOTER</h1></ul>
 </div>
 </div>
 </body>
